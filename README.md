@@ -31,6 +31,7 @@ A Chrome Extension that tracks the time you spend on different websites and prov
 
 ## 📸 Screenshots / Outputs 
 
+![Image](https://github.com/user-attachments/assets/5ceec870-4ca7-4841-b843-6a76b815b91a)
 
 ## 🛠️ Tech Stack
 
